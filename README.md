@@ -8,3 +8,4 @@
 ## Dependency
 
 >OpenCV 3.4.6 (for android)
+>https://opencv.org/releases/
