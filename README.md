@@ -8,6 +8,3 @@
 ## Dependency
 
 >OpenCV 3.4.6 (for android)
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
