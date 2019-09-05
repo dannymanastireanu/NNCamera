@@ -9,3 +9,6 @@
 
 >OpenCV 3.4.6 (for android)
 >https://opencv.org/releases/
+
+>Yolo cfg & weights from http://pjreddie.com/darknet/yolo/
+>Load from external memory of phone
